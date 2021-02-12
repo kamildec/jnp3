@@ -1,0 +1,1 @@
+Implementacja sieci konwolucyjnej dla zbioru danych FashionMNIST
